@@ -111,7 +111,7 @@ class TestCallExtended(TestCaseExtended):
 
 
 @allure.feature("Another extended")
-class TestCallExtended(TestCaseExtended):
+class AnotherTestCallExtended(TestCaseExtended):
     foo = 'not false'
 
     class Meta:
