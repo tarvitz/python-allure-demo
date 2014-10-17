@@ -44,9 +44,9 @@ Or
    (ve) $ py.test --alluredir=db/allure tests.py
    $ allure generate db/allure -o db/reports -v 1.4.3
 
-Issue #40
+Issue #41
 ---------
-`Issue #40 <https://github.com/allure-framework/allure-python/issues/40>`_
+`Issue #41 <https://github.com/allure-framework/allure-python/issues/41>`_
 
 Use
 
