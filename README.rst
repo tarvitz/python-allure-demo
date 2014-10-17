@@ -20,6 +20,7 @@ Allure dependecies:
 
 PIP & VirtualENV
 ~~~~~~~~~~~~~~~~
+
 .. code-block:: bash
 
    $ virtualenv --no-site-packages ve --python python2.7
@@ -30,11 +31,13 @@ Issue #39
 ---------
 `Issue #39 <https://github.com/allure-framework/allure-python/issues/39>`_
 Use
+
 .. code-block:: bash
 
    (ve) $ ./run_tests.sh
 
 Or
+
 .. code-block:: bash
 
    (ve) $ py.test --alluredir=db/allure tests.py
@@ -44,9 +47,12 @@ Issue #40
 ---------
 `Issue #40 <https://github.com/allure-framework/allure-python/issues/40>`_
 Use
+
 .. code-block:: bash
 
    (ve) $ ./run_doctests.sh
+
+Or
 
 .. code-block:: bash
 
