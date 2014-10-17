@@ -30,6 +30,7 @@ PIP & VirtualENV
 Issue #39
 ---------
 `Issue #39 <https://github.com/allure-framework/allure-python/issues/39>`_
+
 Use
 
 .. code-block:: bash
@@ -46,6 +47,7 @@ Or
 Issue #40
 ---------
 `Issue #40 <https://github.com/allure-framework/allure-python/issues/40>`_
+
 Use
 
 .. code-block:: bash
